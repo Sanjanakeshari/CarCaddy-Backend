@@ -172,26 +172,4 @@ Planned future improvements include:
 
 ---
 
-## 📁 Suggested Project Structure
 
-```bash
-CarCaddy/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/carcaddy/
-│   │   │       ├── controller/
-│   │   │       ├── service/
-│   │   │       ├── repository/
-│   │   │       ├── entity/
-│   │   │       ├── dto/
-│   │   │       ├── exception/
-│   │   │       └── config/
-│   │   └── resources/
-│   │       ├── application.properties
-│   │       └── templates/
-│
-├── pom.xml
-├── README.md
-└── .gitignore
